@@ -6,4 +6,4 @@ class App:
         self.path = path
 
     def __repr__(self) -> str:
-        return f"{self.name} - {self.bundle_id} - {self.url} \n"
+        return f"{self.name} - {self.url} \n"
