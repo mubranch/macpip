@@ -1,6 +1,6 @@
 ## About The Project
 
-[![mpip][product-screenshot]](https://raw.githubusercontent.com/mubranch/mpip/main/media/mpip-screenshot.png)
+![mpip](https://raw.githubusercontent.com/mubranch/mpip/main/media/mpip-screenshot.png)
 
 <!-- GETTING STARTED -->
 
