@@ -1,4 +1,8 @@
-# Project Title
+# macpip
+
+A tool to output macOS apps in requirements format.
+
+![macpip](https://raw.githubusercontent.com/mubranch/mpip/main/media/macpip.png)
 
 ## Table of Contents
 
@@ -9,7 +13,7 @@
 
 ## About <a name = "about"></a>
 
-Everyone hates getting a new mac, deciding to go with a clean install - and manually finding and re-downloading all of the applications you were using before.
+Everyone hates getting a new mac deciding to go with a clean install - and manually finding and re-downloading all of the applications you were using before.
 
 macpip makes it easy to output a requirements.txt of installed mac apps and app store links.
 
