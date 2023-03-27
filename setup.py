@@ -12,7 +12,7 @@ setup(
     author_email="",
     license="MIT",
     description="A tool to output macOS apps in requirements format.",
-    url="",
+    url="https://github.com/mubranch/mpip",
     py_modules=["macpip, 'app"],
     packages=find_namespace_packages(),
     install_requires=[requirements],
